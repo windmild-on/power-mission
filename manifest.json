@@ -1,0 +1,15 @@
+{
+  "name": "요일별 파워 미션",
+  "short_name": "파워 미션",
+  "description": "초등학생을 위한 요일별 운동 미션 앱",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
